@@ -1,4 +1,4 @@
-<h1>Hi, I'm Odira , an <a href="https://www.linkedin.com/in/odira-onodugo-95284597">APIRING IT Professional</a>☺</h1>
+<h1>Hi, I'm Odira
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
