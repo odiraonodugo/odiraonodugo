@@ -1,4 +1,4 @@
-<h1>Hi, I'm Odira
+<h1>Hi, I'm Odira, 
 
 <h2> Information Technology Projects:</h2>
 
