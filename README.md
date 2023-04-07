@@ -24,7 +24,7 @@
 
 - <b>VPN</b>  
   
-   - [Virtual Private Network]
+   - [Virtual Private Network](https://github.com/odiraonodugo/Virtual-Private-Network)
   
 
 <h2>🤳Connect with me:</h2>
