@@ -1,4 +1,13 @@
-<h1>Hi, I'm Odira, 
+<h1>Hi, I'm Odira,
+  
+<h2>Cybersecurity Project:</h2>
+  
+  <b>Azure/Cloud Cybersecurity Project</b>
+    
+  - [Creating a Live SOC/Honeynet in Azure]
+  
+  
+  
 
 <h2> Information Technology Projects:</h2>
 
