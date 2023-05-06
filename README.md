@@ -1,10 +1,10 @@
-<h1>Hi, I'm Odira,
+<h1>Hi, I'm Odira, Aspiring IT/Cybersecurity Professional
   
 <h2>Cybersecurity Project:</h2>
   
   <b>Azure/Cloud Cybersecurity Project</b>
     
-  - [Creating a Live SOC/Honeynet in Azure]
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/odiraonodugo/SOC-Cybersecurity-Project)
   
   
   
